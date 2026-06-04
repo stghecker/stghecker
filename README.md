@@ -1,6 +1,6 @@
 ## Hi there 👋
 Me be a human, currently on earth.
-
+Find me on Algorithmics: https://learn.alg.academy/student-profile?profileId=6606879
 <!--
 **stghecker/stghecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
