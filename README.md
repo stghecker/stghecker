@@ -1,4 +1,5 @@
 ## Hi there 👋
+Me be a human, currently on earth.
 
 <!--
 **stghecker/stghecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
