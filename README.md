@@ -4,3 +4,4 @@ Follow me on [Algorithmics](https://learn.alg.academy/student-profile?profileId=
 Find me on [GitHub Gists](https://gist.github.com/stghecker/). <br>
 Message me on [Ely.by](https://ely.by/stghecker). <br>
 Message me on [Discord](https://discord.gg/YvQArqeJ). <br>
+Message me on [FluffyChat (Matrix)](https://matrix.to/#/@stgteo:matrix.org?client=im.fluffychat). <br>
